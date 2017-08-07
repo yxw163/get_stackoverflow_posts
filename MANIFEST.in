@@ -1,0 +1,2 @@
+recursive-include stackoverflow_posts/templates *
+recursive-include stackoverflow_posts/static *

@@ -1,0 +1,37 @@
+                Get User Posts Use Stack Overflow API
+
+                 a minimal python-flask application
+
+
+    ~ Skill in this application
+
+      1. front-end: 
+           Vue.js(Cdn): a MVVM framework for building user interfaces
+           Uikit(Cdn):  A lightweight and modular front-end framework for css/js/fonts etc.
+
+      2. back-end:
+           python: 3.5
+           python-flask
+           flask-RESTful
+
+      3. json between frontend and backend
+      
+
+    ~ How do I use it?
+
+      1. install the application package using the following command:
+
+         pip install stackoverflow_posts-1.0.tar.gz
+
+      2. run the startup script
+
+         python run.py
+
+         now the application will greet you on
+         http://localhost:5000/
+
+
+    ~ Is it tested?
+
+      You betcha.  Run `python setup.py test` to see
+      the tests pass.
